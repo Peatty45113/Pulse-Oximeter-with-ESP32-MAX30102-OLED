@@ -2,7 +2,6 @@
 
 A low-cost heart rate (BPM) and blood oxygen (SpO2) monitor built with an **ESP32**, a **MAX30102** optical sensor and a **1.3" SH1106 OLED**. Everything sits on a solderless breadboard and is joined with 10 jumper wires.
 
-![Finished device](images/finished.jpg)
 
 > ⚠️ **Educational project. This is not a medical device.** Do not use the readings to make health decisions.
 
